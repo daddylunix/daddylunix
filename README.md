@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daddylunix
+# 👋 Hi, I’m Lunix!
 - 👀 I’m a full-stack web developer.
 - 🌱 I’m currently learning React.
 
